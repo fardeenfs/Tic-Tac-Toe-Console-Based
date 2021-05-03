@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38a5caf3-f0ad-471c-a4de-0a976cbf583b" name="Default Changelist" comment="" />
+    <list default="true" id="38a5caf3-f0ad-471c-a4de-0a976cbf583b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1s0YcGBsGfWQmOkLfJ1UsW2YCK6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620011051874</updated>
-      <workItem from="1620011053834" duration="3556000" />
+      <workItem from="1620011053834" duration="4783000" />
     </task>
     <servers />
   </component>
@@ -71,24 +78,24 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="585" key="GridCell.Tab.0.bottom" timestamp="1620014590415">
+    <state width="1493" height="601" key="GridCell.Tab.0.bottom" timestamp="1620015982002">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="585" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620014590415" />
-    <state width="1493" height="585" key="GridCell.Tab.0.center" timestamp="1620014590415">
+    <state width="1493" height="601" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620015982002" />
+    <state width="1493" height="601" key="GridCell.Tab.0.center" timestamp="1620015982002">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="585" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620014590415" />
-    <state width="1493" height="585" key="GridCell.Tab.0.left" timestamp="1620014590415">
+    <state width="1493" height="601" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620015982002" />
+    <state width="1493" height="601" key="GridCell.Tab.0.left" timestamp="1620015982002">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="585" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620014590415" />
-    <state width="1493" height="585" key="GridCell.Tab.0.right" timestamp="1620014590415">
+    <state width="1493" height="601" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620015982002" />
+    <state width="1493" height="601" key="GridCell.Tab.0.right" timestamp="1620015982002">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="585" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620014590415" />
+    <state width="1493" height="601" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620015982002" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tic_tac_toe$Game.coverage" NAME="Game Coverage Results" MODIFIED="1620014688573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tic_tac_toe$Game.coverage" NAME="Game Coverage Results" MODIFIED="1620015959154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -33,7 +33,17 @@ def checkwin(player):
             print(player, "has won!")
             playerwins += 1
     if playerwins==1:
-        board = [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
+        newgame=input("Start A New Game? (Y for yes/ Any Other Key for no) : ")
+        if newgame=='Y':
+            board = [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
+            display()
+        else:
+            print("BYE!")
+    if playerwins==0:
+        if player=="X":
+            playo()
+        else:
+            playx()
 
 
 
@@ -43,7 +53,6 @@ def playo():
         board[play-1]='O'
         display()
         checkwin('O')
-        playx()
     else:
         print("Already Taken! Try another box")
         playo()
@@ -55,7 +64,6 @@ def playx():
         board[play-1]='X'
         display()
         checkwin('X')
-        playo()
     else:
         print("Already Taken! Try another box")
         playx()
